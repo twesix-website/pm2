@@ -1,0 +1,3 @@
+- script: /web/bed/NeteaseCloudMusicApi/app.js
+  watch: false
+  name: music-api

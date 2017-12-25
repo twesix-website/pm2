@@ -1,0 +1,3 @@
+- script: /web/bed/github-webhook/index.js
+  watch: false
+  name: github-webhook

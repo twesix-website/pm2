@@ -1,0 +1,3 @@
+- script: /web/bed/wvw.twesix.cn/server.js
+  watch: false
+  name: wvw.twesix.cn

@@ -1,0 +1,3 @@
+- script: /web/bed/proxy/index.js
+  watch: false
+  name: proxy
